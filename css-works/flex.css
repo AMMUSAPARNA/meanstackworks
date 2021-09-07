@@ -1,0 +1,29 @@
+.parent{
+    width: 550px;
+    height: 310px;
+    background-color: lightseagreen;
+    display: flex;
+    
+}
+.col{
+    width: 50px;
+    height: 200px;
+    padding: 10px;
+}
+.col1{
+    background-color:  rgb(31, 92, 49);
+    flex: 1;
+}
+.col2{
+    background-color: rgb(138, 24, 86);
+    flex: 2;
+}
+.col3{
+    background-color: sandybrown;
+    flex: 3;
+}
+.col4{
+    background-color: springgreen;
+    flex: 4;
+}
+

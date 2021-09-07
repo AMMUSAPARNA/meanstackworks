@@ -1,0 +1,51 @@
+.parent{
+    position: relative;
+    border: 1px solid rgb(173, 169, 151);
+    background-color: rgb(179, 173, 93);
+    width: 350px;
+    height: 3px;
+}
+.row{
+    position: relative;
+    margin-left: 50%;
+    border: 1px solid grey;
+    background-color: indianred;
+    width: 350px;
+    height: 300px;
+}
+.right{
+    position: relative;
+    border: 1px solid rgb(143, 124, 49);
+    background-color: rgb(112, 107, 34);
+    width: 350px;
+    height:300px ;
+}
+.col{
+    width: 100px;
+    height: 300px;
+    border:1px solid grey;
+}
+.first{
+    position: absolute;
+    background-color: fuchsia;
+}
+.second{
+    position: absolute;
+    margin-left:29%;
+    background-color: lightsalmon;
+}
+.third{
+    position: absolute;
+    margin-left: 58%;
+    background-color: lawngreen;
+}
+.fourth{
+    position: absolute;
+    margin-left: 87%;
+    background-color: orangered;
+}
+.fifth{
+    position: absolute;
+    margin-left: 116%;
+    background-color: purple;
+}

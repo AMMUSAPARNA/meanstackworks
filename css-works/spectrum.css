@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital@1&display=swap');
+div{
+    width: 5%;
+    height: 100px;
+    float: left;
+    
+}
+.a{
+    margin-left: 39.5%;
+    background-color:#f5d742 ;
+}
+.b{
+    margin-left: 2%;
+    background-color:#f5c242 ;
+}
+.c{
+    margin-left: 2%;
+    background-color: #f5a442;
+}
+.d{
+    margin-left: 2%;
+    background-color: #f58442;
+}
+.e{
+    margin-left: 2%;
+    background-color: sienna;
+ 
+}
+.f{
+    margin-left: 32.502%;
+    margin-top: 2%;
+    background-color:#f54842 ;
+}
+.g{
+    margin-left: 2%;
+    margin-top:2%;
+    background-color:#d1f542 ;
+}
+.h{
+    margin-left: 2%;
+    margin-top: 2%;
+    background-color: lime ;
+}
+.i{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: #72f542;
+}
+.j{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: darkslategray;
+}
+.k{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color:#42f5bc ;
+}
+.l{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color:#4287f5 ;
+}
+.m{
+    margin-top: 2%;
+    margin-left: 24.5%;
+    background-color: indigo;
+}
+.n{
+    margin-top: 2%;
+    margin-left: 3%;
+    background-color: thistle;
+}
+.o{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: tomato;
+}
+.p{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: #b942f5;
+}
+.q{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color:#e942f5 ;
+}
+.r{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: #f542b0;
+}
+.s{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color:#f54278 ;
+}
+.t{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: #f54251;
+}
+.u{
+    margin-top: 2%;
+    margin-left: 2%;
+    background-color: wheat;
+
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin-left: 36%;
+    font-family: 'Tinos', serif;
+}
